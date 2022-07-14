@@ -23,6 +23,7 @@
 - `Node.js`: `16.13.2`
 - `Visual Studio Code`
 - `HTML 5`
+- `JavaScript`
 
 ## 📁 Acesso ao projeto
 <p>Você pode acessar os arquivos do projeto clicando <a href="https://github.com/marcellasan/projeto-automatizado-cypress/tree/master/cypress">aqui</a>.</p>
