@@ -32,5 +32,5 @@
 ## Autores
 [<img src="https://avatars.githubusercontent.com/u/102002212?s=96&v=4" width=115><br><sub>Marcella Santana</sub>](https://github.com/marcellasan) 
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/marcellasan?style=social)
 
