@@ -23,14 +23,12 @@ Testes a partir de uma massa de dados oriundos de um arquivo externo
 
 Testes dados sensíveis, evitar flaky tests e diversas boas práticas de escrita e organizaçã</p>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ## License
-https://img.shields.io/github/license/marcellasan/projeto-automatizado-cypress
+<img alt="GitHub" src="https://img.shields.io/github/license/marcellasan/projeto-automatizado-cypress">
 
 ## Autores
-
 [<img src="https://avatars.githubusercontent.com/u/102002212?s=96&v=4" width=115><br><sub>Marcella Santana</sub>](https://github.com/marcellasan) 
 
 
