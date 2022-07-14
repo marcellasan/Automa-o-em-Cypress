@@ -16,6 +16,8 @@
 - `Funcionalidade 3`: `Busca de Fotos e Dados`
 - `Funcionalidade 4`: `Usabilidade da Tela Inicial`
 
+![Video_220714202719](https://user-images.githubusercontent.com/102002212/179117907-f02ced55-99e3-4a9f-bf46-a728793be9a3.gif)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 - `Cypress`
 - `Node.js`: `16.13.2`
