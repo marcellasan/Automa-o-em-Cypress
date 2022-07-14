@@ -4,7 +4,8 @@
 <p>Nesse projeto automatizei uma aplicação de cadastro de fotos utilizando a framework de teste Cypress.</p>
 <p>- Além de visualizar e personalizar relatórios de execução dos testes automatizados, utilizandor recursos de Playback e Dashboard para acompanhar o histórico de execuções</p>
 <p>- Testes a partir de uma massa de dados oriundos de um arquivo externo</p>
-<p>- Testes dados sensíveis, evitar flaky tests e diversas boas práticas de escrita e organizaçã</p>
+<p>- Testes de dados sensíveis e diversas boas práticas de escrita e organização</p>
+<p>- Fazer testes em API’s REST, verificando o status e corpo da resposta, bem como outros comportamentos</p>
 
 ![Captura de tela 2022-07-14 200947](https://user-images.githubusercontent.com/102002212/179116191-c72ba808-5278-4556-b525-2bc1bcea0d22.png)
 
