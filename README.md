@@ -27,7 +27,7 @@ Testes dados sensíveis, evitar flaky tests e diversas boas práticas de escrita
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ## License
-MIT
+https://img.shields.io/github/license/marcellasan/projeto-automatizado-cypress
 
 ## Autores
 
