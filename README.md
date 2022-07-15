@@ -7,17 +7,27 @@
 <p>- Testes de dados sensíveis e diversas boas práticas de escrita e organização</p>
 <p>- Fazer testes em API’s REST, verificando o status e corpo da resposta, bem como outros comportamentos</p>
 
-![Captura de tela 2022-07-14 200947](https://user-images.githubusercontent.com/102002212/179116191-c72ba808-5278-4556-b525-2bc1bcea0d22.png)
 
 
 ## :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: `Cadastro de Usuário` 
+
+![Captura de tela 2022-07-14 210419](https://user-images.githubusercontent.com/102002212/179120932-06902d27-a939-4ce0-bdb8-68976c222dd4.png)
+
 - `Funcionalidade 2`: `Login`
+
+![Video_220714213337](https://user-images.githubusercontent.com/102002212/179123448-bf92bf8f-3045-4105-9bf1-a69fa3a479fc.gif)
+
 - `Funcionalidade 3`: `Busca de Fotos e Dados`
+
+![Captura de tela 2022-07-14 210723](https://user-images.githubusercontent.com/102002212/179121146-0876b92a-a7ba-4d60-bdd4-c78d38320e21.png)
+
 - `Funcionalidade 4`: `Usabilidade da Tela Inicial`
 
-![Video_220714202719](https://user-images.githubusercontent.com/102002212/179117907-f02ced55-99e3-4a9f-bf46-a728793be9a3.gif)
+![Video_220714211621](https://user-images.githubusercontent.com/102002212/179121920-3845d571-0fde-4678-9528-62c0d1432a0d.gif)
+
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 - `Cypress`
